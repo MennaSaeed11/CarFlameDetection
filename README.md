@@ -9,7 +9,7 @@ This Arduino sketch controls a robot chassis using motor drivers and includes fu
 - **Buzzer**: Alerts upon flame detection.
 - **Bluetooth**: To control the car
 
-## Commands via Serial:
+## Commands:
 - **F**: Move forward.
 - **B**: Move backward.
 - **R**: Turn right.
