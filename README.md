@@ -3,11 +3,11 @@
 This Arduino sketch controls a robot chassis using motor drivers and includes functionality for flame detection and alert using a buzzer. Here’s a quick overview:
 
 ## Components Used:
-- **Servo Motor:**: Controls a sensor or actuator (used here for flame detection).
-- **Motor Drivers:**: Controls two DC motors for movement.
+- **Servo Motor:** Controls a sensor or actuator (used here for flame detection).
+- **Motor Drivers:** Controls two DC motors for movement.
 - **DC Motors:** Move the car
-- **Flame Sensor**: Detects flames.
-- **Buzzer:**: Alerts upon flame detection.
+- **Flame Sensor:** Detects flames.
+- **Buzzer:** Alerts upon flame detection.
 - **Bluetooth:** To control the car
 
 ## Commands:
