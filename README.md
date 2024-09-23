@@ -1,4 +1,4 @@
-# Arduino Robot Control with Servo and Flame Detection
+# Fire Detecting Robot
 
 This Arduino sketch controls a robot chassis using motor drivers and includes functionality for flame detection and alert using a buzzer.
 
@@ -19,5 +19,5 @@ This Arduino sketch controls a robot chassis using motor drivers and includes fu
 - **V**: Sweep servo from 0 to 180 degrees to detect flames.
   - If flames detected, activates the buzzer for alert.
 
-## Circuit
+## Circuit:
 ![circuit](circuit.png)
